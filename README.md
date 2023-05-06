@@ -9,7 +9,7 @@
 * Who is he booking for(only himself/ a group of people)?
 * View and select seats from seat matrix
 * Pre-order food
-* Select a payment and make payment.
+* Select a payment mode and make payment.
 * Cancel a booking.
 
 ### 2. Cinema/Theatre Admin: 
